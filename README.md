@@ -1,1 +1,1 @@
-# A-continuous-time-Boolean-model-of-the-endocycle-events-in-budding-yeast
+These computer codes generate the figures in **'Normal and Aberrant Cell Cycles Characterized by a Continuous-Time Stochastic Boolean Model of Cell Cycle Regulation in Budding Yeast'** by Kittisak Taoma, John J. Tyson, Teeraphan Laomettachit, and Pavel Kraikivski.
