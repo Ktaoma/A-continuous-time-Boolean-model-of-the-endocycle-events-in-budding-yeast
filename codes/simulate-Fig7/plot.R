@@ -13,6 +13,15 @@ d2 <- d %>% select(-A)
 rownames(d2) <- d$A
 colnames(d2) <- sub("predict.", "", colnames(d2))
 
+eno_order <- c("cln3∆", "clb2G-M∆", "cdc5∆", "mcm1∆", "cdc20∆", "cdc14∆", 
+               "whi5∆","sbf∆", "mbf∆", "cln2∆", "clb5∆",
+               "swi5∆", "cdh1∆", "sic1∆", "nrm1∆")
+
+
+d3 <- d2[eno_order]
+d4 <- d3[order(match(rownames(d3), eno_order)), , drop = FALSE]
+d2 <- d4
+
 order_ = colnames(d2)
 known_delete <- c("whi5_whi5","sic1_sic1","sbf_sbf",
                   "mbf_mbf","cdc5_cdc5","mcm1_mcm1",
