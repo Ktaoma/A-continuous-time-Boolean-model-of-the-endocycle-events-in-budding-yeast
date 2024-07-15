@@ -1,8 +1,8 @@
 ,value,name,type
-0,0.15851216470882545,Birth size,Simulation
-1,0.42228551576131235,TG1,Simulation
-2,0.11989894615619172,TBUD,Simulation
-3,0.24473274080035684,TDIV,Simulation
+0,0.16668063988334872,Birth size,Simulation
+1,0.43625942843094323,TG1,Simulation
+2,0.13060352681562828,TBUD,Simulation
+3,0.2523092476870334,TDIV,Simulation
 0,0.2,Birth size,Experiment
 1,0.5,TG1,Experiment
 2,0.2,TBUD,Experiment
