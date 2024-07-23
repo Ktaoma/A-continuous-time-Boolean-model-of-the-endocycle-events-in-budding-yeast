@@ -40,7 +40,7 @@ k38	5	w_MBF_Nrm1
 k39	-0.5	w_Mcm1
 k40	1	w_Mcm1_Clb2G
 k41	3	w_Mcm1_Clb2M
-k42	1.5	w_Nrm1
+k42	0.5	w_Nrm1
 k43	2	w_Nrm1_Cdh1
 k44	1	w_Nrm1_MBF
 k45	-0.5	w_SBF
