@@ -1,1 +1,1 @@
-These computer codes generate the figures in **'Normal and Aberrant Cell Cycles Characterized by a Continuous-Time Stochastic Boolean Model of Cell Cycle Regulation in Budding Yeast'** by Kittisak Taoma, John J. Tyson, Teeraphan Laomettachit, and Pavel Kraikivski.
+These computer codes generate the figures in **'Stochastic Boolean Model of Normal and Aberrant Cell Cycles in Budding Yeast'** by Kittisak Taoma, John J. Tyson, Teeraphan Laomettachit, and Pavel Kraikivski.
